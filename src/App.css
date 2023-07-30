@@ -231,6 +231,9 @@ button{
     gap:50%;
     
   }
+  a{
+    color: hsl(0, 0%, 48%);
+  }
   .fir{
     font-size: 14px;
   }
